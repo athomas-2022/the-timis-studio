@@ -1,0 +1,38 @@
+{
+  "title": "The Smith Family",
+  "allowDownload": true,
+  "files": [
+    {
+      "name": "photo-01.jpg",
+      "size": 21434
+    },
+    {
+      "name": "photo-02.jpg",
+      "size": 17908
+    },
+    {
+      "name": "photo-03.jpg",
+      "size": 19068
+    },
+    {
+      "name": "photo-04.jpg",
+      "size": 19175
+    },
+    {
+      "name": "photo-05.jpg",
+      "size": 21321
+    },
+    {
+      "name": "photo-06.jpg",
+      "size": 20461
+    },
+    {
+      "name": "photo-07.jpg",
+      "size": 21605
+    },
+    {
+      "name": "photo-08.jpg",
+      "size": 18188
+    }
+  ]
+}
